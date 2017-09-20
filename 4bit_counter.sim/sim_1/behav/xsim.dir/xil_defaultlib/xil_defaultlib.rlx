@@ -1,0 +1,8 @@
+0.6
+2016.3
+Oct 10 2016
+19:46:48
+C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/4bit_counter.srcs/sim_1/new/test_top.vhd,1505826633,vhdl,,,,test_top,,,,,,,,
+C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/4bit_counter.srcs/sources_1/new/counter.vhd,1505839111,vhdl,C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/4bit_counter.srcs/sim_1/new/test_top.vhd,,,counter,,,,,,,,
+C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/4bit_counter.srcs/sources_1/new/manual_mod.vhd,1505830166,vhdl,C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/4bit_counter.srcs/sources_1/new/counter.vhd,,,manual_mod,,,,,,,,
+C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/4bit_counter.srcs/sources_1/new/slow_clk.vhd,1505833496,vhdl,C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/4bit_counter.srcs/sources_1/new/counter.vhd,,,slow_clk,,,,,,,,

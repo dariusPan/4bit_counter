@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Tue Sep 19 17:03:44 2017
+# Process ID: 5520
+# Current directory: C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10084 C:\Users\Darius\Desktop\Y4S1\EE4218\4bit_counter\4bit_counter.xpr
+# Log file: C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/vivado.log
+# Journal file: C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/4bit_counter.xpr
+launch_simulation
+open_wave_config C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/test_top_behav.wcfg
+source test_top.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/test_top_behav.wcfg
+source test_top.tcl
+save_wave_config {C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/test_top_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/test_top_behav.wcfg
+source test_top.tcl
+save_wave_config {C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/test_top_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Users/Darius/Desktop/Y4S1/EE4218/4bit_counter/test_top_behav.wcfg
+source test_top.tcl
